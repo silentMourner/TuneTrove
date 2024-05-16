@@ -1,0 +1,28 @@
+.root {
+    -fx-background-color: #333333;
+}
+.label {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+.anchor-pane {
+    -fx-background-color: #222222;
+}
+.button {
+    -fx-background-color: #9933FF;
+    -fx-text-fill: #FFFFFF;
+}
+.button:hover {
+    -fx-background-color: #7A00CC;
+}
+.list-view {
+    -fx-control-inner-background: #444444;
+    -fx-selection-bar: #9933FF;
+}
+.list-cell {
+    -fx-text-fill: #FFFFFF;
+}
+
+
